@@ -4,7 +4,9 @@
 DTrac，是以本人呼号最后一位字母D+Trac命名的，D也是我姓氏的第一个字母。DTrac可以理解为DIY Trac，还可以理解为Deftly Trac，一款DIY的且灵巧的便携式卫星跟踪系统。可以使用定制的DTrac APP通过无线方式连接并来控制Rotor自动跟踪指定的业余卫星，支持实时显示旋转器（天线）姿态角；并同时可以用DTrac APP同步控制电台多普勒频率、异频切换、亚音设定、模式变更等，最新版本支持NRL远程控制。
 
 #拓扑图<br>
-<img src="http://www.dtrac.cn/lib/exe/fetch.php?w=400&amp;tok=2f556b&amp;media=topologymap.png" class="media" loading="lazy" alt="" width="400">
+<img src="http://www.dtrac.cn/lib/exe/fetch.php?w=400&amp;tok=2f556b&amp;media=topologymap.png" class="media" loading="lazy" alt="" width="400"><br>
+
+<img src="http://www.dtrac.cn/lib/exe/fetch.php?w=400&amp;tok=a7fad9&amp;media=rc3040ssetup.png" class="media" loading="lazy" title="UDP" alt="UDP" width="400">
 
 #DTrac APP 简介<br>
 DTrac APP可以自动控制旋转器和电台，是给HAM朋友们量身定制的APP。<br>
