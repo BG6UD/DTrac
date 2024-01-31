@@ -20,3 +20,7 @@ DTrac APP可以同时操控多套设备联动；
 支持指南针辅助和姿态传感器辅助控制；
 支持NRL远程控制；
 更多内容请点击这里 DTrac APP
+<img src="http://www.dtrac.cn/lib/exe/fetch.php?w=400&amp;tok=2b0b81&amp;media=ylqf666.jpg" class="media" loading="lazy" alt="" width="400">
+
+#官网
+http://www.dtrac.cn
